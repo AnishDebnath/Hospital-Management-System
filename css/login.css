@@ -1,7 +1,12 @@
 
 body{
     margin: 7%;
-    background-color: #F6F7FA;
+   /* background-color: #F6F7FA;*/
+    background-image: url(../img/bg01.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100%;
 }
 
 
@@ -59,3 +64,5 @@ td{
     margin-bottom: 15px;
     width: 100%;
 }
+
+

@@ -12,7 +12,7 @@ html, body {
   }
   
 .full-height {
-    background: rgba(26, 26, 26, 0.548);
+    background: rgba(32, 30, 30, 0.548);
     background-attachment: fixed;
     max-height: 100vh;
     height: 100vh;
@@ -81,7 +81,17 @@ table{
 .footer-hashen{
     position: absolute;
     bottom: 0;
-    left: 45%;
-    font-size: 13px;
+    left: 42%;
+    font-size: 20px;
     animation: transitionIn-Y-over 0.5s;
+    color: rgb(255, 248, 248);
+    padding-right :50px ;
+    
+    display: inline-block;
+
+}
+i{
+    padding-left: 25px;
+    cursor: pointer;
+    
 }
