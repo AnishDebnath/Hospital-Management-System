@@ -77,7 +77,7 @@ This project was developed with the following technologies:
 
 <h1>Live Demo</h1>
 
-https://anishdebnath.github.io/Hospital-Management-System/
+http://hospital-management-system.infinityfreeapp.com/
 
 ---
 © 2023 Anish Debnath
